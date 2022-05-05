@@ -18,6 +18,7 @@ public class StringComparison {
 		
 		StringComparison obj = new StringComparison("Comparison", "comparison");
 		System.out.println(obj.compareString());
+		System.out.println(obj.toString());
 		
 	}
 	
